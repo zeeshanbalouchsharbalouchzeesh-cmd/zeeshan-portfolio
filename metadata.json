@@ -1,0 +1,6 @@
+{
+  "name": "ShopMaster - Business Management & POS SaaS",
+  "description": "Premium multi-tenant business management and POS platform for retail, groceries, electronics, pharmacies, and general stores. Developed & Designed by Zeeshan Hyder.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
